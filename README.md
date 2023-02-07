@@ -1,4 +1,4 @@
-# vue-crash-course
+# vue3-basic-user-details-app
 
 ## Project setup
 ```
